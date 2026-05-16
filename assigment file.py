@@ -45,5 +45,6 @@ def main_menu():
             print("Enter valid data type")
     elif ch==4:
         flag=False
+        print("Exiting code")
 while flag:
     main_menu()
